@@ -14,3 +14,16 @@ b)PiezoElectric sensor(3D):Arduino pin A1, Gnd
 c)Ultrasonic sensor:
       1)Trigger: Arduino pin 7
       2)Echo: Arduino pin 8
+d)LCD connections:
+      1)LCD pin 1: Gnd
+      2)LCD pin 2:VCC
+      3)LCD pin 3:Gnd
+      4)LCD pin 4:Gnd
+      5)LCD pin 5:Arduino pin 12
+      6)LCD pin 6:Arduino pin 11
+      7)LCD pin 11:Arduino pin 5
+      8)LCD pin 12:Arduino pin 4
+      9)LCD pin 13:Arduino pin 3
+      10)LCD pin 14:Arduino pin 2
+      11)LCD pin 15:Vcc
+      12)LCD pin 16:Gnd
