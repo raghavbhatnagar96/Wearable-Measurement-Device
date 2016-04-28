@@ -1,6 +1,6 @@
 # Wearable Measurement Device
-This project aims at making a wearable device that measures dimentions using ultrasonic sensor. I have also used piezoelectric pressure sensors to trigger 2D or 3D modes which are used to identify the shape of the object and help in calculating the survace area and volume.
-The final sourcecode is an arduino code that has to be uploaded on an arduino with attached lcd, ultrasonic and piezoelectric sensor that work as pressure triggers.
+This project aims at making a wearable device that measures dimensions using ultrasonic sensor. I have also used piezoelectric pressure sensors to trigger 2D or 3D modes which are used to identify the shape of the object and help in calculating the surface area and volume.
+The final source-code is an arduino code that has to be uploaded on an arduino with attached lcd, ultrasonic and piezoelectric sensor that work as pressure triggers.
 ->One piezoelectric sensor will trigger the 2D mode. This mode takes at max 2 dimentions. To give only one input we exit after giving one dimention by pressing the 2D trigger again.The display will show the shape and its area.
     i)1 dimention: Circle
     ii)2 dimentions: Square or rectangle
